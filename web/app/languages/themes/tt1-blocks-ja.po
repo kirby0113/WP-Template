@@ -1,0 +1,368 @@
+# Translation of Themes - TT1 Blocks in Japanese
+# This file is distributed under the same license as the Themes - TT1 Blocks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-23 04:46:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - TT1 Blocks\n"
+
+#. Description of the theme
+msgid "TT1 Blocks is an experimental block-based version of the Twenty Twenty-One theme. It is built to leverage the full-site editing functionality that is being built in the Gutenberg plugin. This theme is not meant for use on a production site."
+msgstr "TT1 Blocks は、TwentyTwenty-One テーマの実験的なブロックベースのバージョンで、Gutenberg プラグインに組み込まれているフルサイト編集機能を活用するために構築されました。このテーマは、本番サイトでの使用を目的としたものではありません。"
+
+#. Theme Name of the theme
+#: inc/block-patterns.php:19
+msgid "TT1 Blocks"
+msgstr "TT1 Blocks"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page without title"
+msgstr "タイトルのないページ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Red to Purple"
+msgstr "赤から紫へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Purple to Red"
+msgstr "紫から赤へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Yellow to Red"
+msgstr "黄から赤へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Red to Yellow"
+msgstr "赤から黄へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Yellow to Green"
+msgstr "黄から緑へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Green to Yellow"
+msgstr "緑から黄へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Yellow to Purple"
+msgstr "黄から紫へ"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Purple to Yellow"
+msgstr "紫から黄へ"
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "白"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Yellow"
+msgstr "黄"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Orange"
+msgstr "オレンジ"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Red"
+msgstr "赤"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Purple"
+msgstr "紫"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Blue"
+msgstr "青"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Green"
+msgstr "緑"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray"
+msgstr "灰色"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Dark Gray"
+msgstr "ダークグレー"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Black"
+msgstr "黒"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr "システムフォント"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "巨大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "超特大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "特大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "大"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "標準"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "小"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra small"
+msgstr "特小"
+
+#: index.php:9
+msgid "This theme was built for the WordPress experimental full site editing feature. You need to install and activate the Gutenberg plugin to make it work. "
+msgstr "このテーマは、WordPress の実験的なフルサイト編集機能のために作成されました。動作させるには、Gutenberg プラグインをインストールして有効化する必要があります。"
+
+#: inc/block-styles.php:88
+msgid "Thick"
+msgstr "厚みのある"
+
+#: inc/block-styles.php:61
+msgid "Dividers"
+msgstr "区切り"
+
+#: inc/block-styles.php:52
+msgid "Frame"
+msgstr "フレーム"
+
+#: inc/block-styles.php:34 inc/block-styles.php:43 inc/block-styles.php:70
+#: inc/block-styles.php:79
+msgid "Borders"
+msgstr "枠線"
+
+#: inc/block-styles.php:25
+msgid "Overlap"
+msgstr "重ね合わせ"
+
+#: inc/block-patterns.php:116
+msgid "Cambridge, MA, 02139"
+msgstr "千代田1-1"
+
+#: inc/block-patterns.php:116
+msgid "123 Main Street"
+msgstr "〒100-0001 東京都千代田区"
+
+#: inc/block-patterns.php:116
+msgid "123-456-7890"
+msgstr "123-456-7890"
+
+#: inc/block-patterns.php:115
+msgctxt "Block pattern description"
+msgid "A block with 3 columns that display contact information and social media links."
+msgstr "連絡先情報とソーシャルメディアリンクを表示する3カラムブロック。"
+
+#: inc/block-patterns.php:113
+msgid "Contact Information"
+msgstr "連絡先情報"
+
+#: inc/block-patterns.php:106
+msgid "&#8220;Reading&#8221; by Berthe Morisot"
+msgstr "「読書する少女」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:106
+msgid "Reading"
+msgstr "読書"
+
+#: inc/block-patterns.php:106
+msgid "Young Woman in Mauve"
+msgstr "モーブで若い女性"
+
+#: inc/block-patterns.php:106
+msgid "The Garden at Bougival"
+msgstr "ブージヴァルの庭"
+
+#: inc/block-patterns.php:106
+msgid "In the Bois de Boulogne"
+msgstr "ブローニュの森で"
+
+#: inc/block-patterns.php:106
+msgid "Villa with Orange Trees, Nice"
+msgstr "オレンジのなかのヴィラ、ニース"
+
+#: inc/block-patterns.php:106
+msgid "Roses Trémières"
+msgstr "立葵"
+
+#: inc/block-patterns.php:105
+msgctxt "Block pattern description"
+msgid "A list of projects with thumbnail images."
+msgstr "サムネイル画像付きのプロジェクトリスト。"
+
+#: inc/block-patterns.php:103
+msgid "Portfolio List"
+msgstr "ポートフォリオリスト"
+
+#: inc/block-patterns.php:95
+msgid "&#8220;Villa with Orange Trees, Nice&#8221; by Berthe Morisot"
+msgstr "「オレンジのなかのヴィラ、ニース」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:95
+msgid "Beautiful gardens painted by Berthe Morisot in the late 1800s"
+msgstr "ベルト・モリゾによって1800年代後半に描かれた美しい庭園"
+
+#: inc/block-patterns.php:95 inc/block-patterns.php:106
+msgid "&#8220;The Garden at Bougival&#8221; by Berthe Morisot"
+msgstr "「ブージヴァルの庭」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:94
+msgctxt "Block pattern description"
+msgid "An overlapping columns block with two images and a text description."
+msgstr "2つの画像とテキスト説明付きの重ね合わせカラムブロック。"
+
+#: inc/block-patterns.php:91
+msgid "Overlapping Images and Text"
+msgstr "画像とテキストの重ね合わせ"
+
+#: inc/block-patterns.php:83
+msgid "&#8220;Self portrait&#8221; by Berthe Morisot"
+msgstr "「自画像」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:83
+msgid "&#8220;Daffodils&#8221; by Berthe Morisot"
+msgstr "「水仙」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:82
+msgctxt "Block pattern description"
+msgid "A Media & Text block with a big image on the left and a smaller one with bordered frame on the right."
+msgstr "左側に大きな画像、右側にフレームで囲まれた小さな画像付きのメディアとテキストブロック。"
+
+#: inc/block-patterns.php:79
+msgid "Two Images Showcase"
+msgstr "2つの画像のショーケース"
+
+#: inc/block-patterns.php:71 inc/block-patterns.php:106
+msgid "&#8220;Young Woman in Mauve&#8221; by Berthe Morisot"
+msgstr "「モーブで若い女性」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:71 inc/block-patterns.php:106
+msgid "&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot"
+msgstr "「ブローニュの森で」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:71 inc/block-patterns.php:106
+msgid "&#8220;Roses Trémières&#8221; by Berthe Morisot"
+msgstr "「立葵」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:70
+msgctxt "Block pattern description"
+msgid "Three images inside an overlapping columns block."
+msgstr "重ね合わせカラムブロック内の3つの画像。"
+
+#: inc/block-patterns.php:67
+msgid "Overlapping Images"
+msgstr "画像の重ね合わせ"
+
+#: inc/block-patterns.php:59
+msgid "Berthe Morisot<br>(French, 1841-1895)"
+msgstr "ベルト・モリゾ<br>(フランス、1841-1895)"
+
+#: inc/block-patterns.php:59
+msgid "Playing in the Sand"
+msgstr "泥まんじゅう遊び"
+
+#: inc/block-patterns.php:59
+msgid "&#8220;Playing in the Sand&#8221; by Berthe Morisot"
+msgstr "「泥まんじゅう遊び」ベルト・モリゾ作"
+
+#: inc/block-patterns.php:58
+msgctxt "Block pattern description"
+msgid "A Media & Text block with a big image on the left and a heading on the right. The heading is followed by a separator and a description paragraph."
+msgstr "左側に大きな画像、右側に見出しの付いたメディアとテキストブロック。見出しの下には区切りと説明の段落があります。"
+
+#: inc/block-patterns.php:55
+msgid "Media and Text Article Title"
+msgstr "メディアと投稿のテキストタイトル"
+
+#: inc/block-patterns.php:47 inc/block-patterns.php:116
+msgid "example@example.com"
+msgstr "example@example.com"
+
+#: inc/block-patterns.php:47
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/block-patterns.php:47
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/block-patterns.php:47
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/block-patterns.php:47
+msgid "Let&#8217;s Connect."
+msgstr "つながりましょう。"
+
+#: inc/block-patterns.php:46
+msgctxt "Block pattern description"
+msgid "A huge text followed by social networks and email address links."
+msgstr "超特大のテキストと、それに続くソーシャルネットワークとメールアドレスのリンク。"
+
+#: inc/block-patterns.php:43
+msgid "Links Area"
+msgstr "リンクエリア"
+
+#: inc/block-patterns.php:35
+msgid "A new portfolio default theme for WordPress"
+msgstr "WordPress の新しいポートフォリオデフォルトテーマ"
+
+#: inc/block-patterns.php:32
+msgid "Large Text"
+msgstr "大きな文字"
+
+#. Author URI of the theme
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress チーム"
+
+#. Theme URI of the theme
+msgid "https://github.com/WordPress/theme-experiments/tree/master/tt1-blocks"
+msgstr "https://github.com/WordPress/theme-experiments/tree/master/tt1-blocks"
